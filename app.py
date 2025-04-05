@@ -12,6 +12,9 @@ from PIL import Image
 import cv2
 
 
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+
 sio = socketio.Server()
  
 app = Flask(__name__) #'__main__'
