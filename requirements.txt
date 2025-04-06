@@ -3,6 +3,6 @@ numpy
 matplotlib
 tensorflow
 keras
-python-socketio
+python-socketio==4.2.1
 Flask
 eventlet
