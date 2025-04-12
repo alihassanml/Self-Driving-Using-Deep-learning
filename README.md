@@ -1,6 +1,6 @@
 # Self-Driving Car System Using Deep Learning
 
-![Project Banner](https://your-image-url.com/banner.png)
+![Project Banner](./image.png)
 
 ## Table of Contents
 
@@ -144,9 +144,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenCV](https://opencv.org/)
 
 ```
-
-**Notes**:
-
-- Replace `https://your-image-url.com/banner.png` with the actual URL of your project banner image.
-- Ensure that `requirements.txt` is present in your repository, listing all necessary dependencies. If not, consider creating one for ease of installation.
-- Include any additional sections or details relevant to your project to enhance clarity and usability.

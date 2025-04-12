@@ -13,6 +13,8 @@ import cv2
 
 
 sio = socketio.Server()
+import os 
+os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
  
 app = Flask(__name__) #'__main__'
 speed_limit = 10
